@@ -32,7 +32,7 @@
   </li>
 </ul>
 
-# 🔧 These common mistakes people make when using Git in a team?
+# 🔧 These common mistakes people make when using Git in a Team
 
 <ul ><li><a href="#unstage">Un-stage files/directories from Index</a></li><li><a href="#edit">Edit the last committed message</a></li><li><a href="#forgot">Forgot some changes in the last commit</a></li><li><a href="#discard">Discard local changes</a></li><li><a href="#committedp">Committed personal data to the local repository</a></li><li><a href="#replaced">Replaced the latest commit with a new commit</a></li><li><a href="#committedw">Committed the wrong data</a></li><li><a href="#get">Get back to my old project state</a></li><li><a href="#recoverd">Recover a deleted local branch</a></li><li><a href="#undo">Undo changes done in a commit</a></li><li><a href="#wrongname">Gave a wrong name to my branch</a></li><li><a href="#rearrange">Want to re-arrange history logs before pushing to remote</a></li><li><a href="#committedu">Committed unrelated changes into a single commit</a></li><li><a href="#change">Change author-email in all commits on all branches</a></li><li><a href="#lost">Lost and found files</a></li><li><a href="#forgotw">Forgot which branch has my commit-id</a></li><li><a href="#deleted">Delete a commit from history</a><a name="unstage"></a><a href="#deleted"></a></li><li><a href="#pushed">Pushed a wrong branch to the remote</a></li></ul>
 
